@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ciansu.github.io</id>
     <title>The Vast World</title>
-    <updated>2022-01-28T12:47:31.009Z</updated>
+    <updated>2022-01-28T12:52:39.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ciansu.github.io"/>
     <link rel="self" href="https://ciansu.github.io/atom.xml"/>
@@ -10,4 +10,14 @@
     <logo>https://ciansu.github.io/images/avatar.png</logo>
     <icon>https://ciansu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, The Vast World</rights>
+    <entry>
+        <title type="html"><![CDATA[A little Story]]></title>
+        <id>https://ciansu.github.io/post/a-little-story/</id>
+        <link href="https://ciansu.github.io/post/a-little-story/">
+        </link>
+        <updated>2022-01-28T12:51:36.000Z</updated>
+        <content type="html"><![CDATA[<pre><code> The next night and many nights thereafter, a kind of unspoken ritual took place.After the other kids finishing playing baseball in the day, they sit on the stoop and wait me tell them wonderful stories. They were always silent and cry out when I told them the wonderful plot. They were amazed at my broad knowledge and I got familiar with them soon. On one day's morning,they even invited me to play baseball with them and they taught me carefully and kindily.
+ I enjoyed the long summer evenings until scool began in the fall. I had to have lessons at school and have no chance to stay with them then. Suddenly I found that I became lonely again, friendship seems very far away from me. However, a competiton was held by our school, which needs competitors to recommend their favorite books to the audiuence. Luckily,to my onderful exprssion, I won the first prize at last. And many students began to make friends with me because we have the same hobby.Thanks to the boy who raised question to me that evening, or I won't achieve this success.</code></pre>
+]]></content>
+    </entry>
 </feed>
